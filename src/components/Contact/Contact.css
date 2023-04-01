@@ -12,6 +12,7 @@
     justify-content: center;
     position: relative;
     flex: 1;
+    /* c-right */
 }
 
 .c-right>form

@@ -26,5 +26,5 @@ const Footer = () => {
     </div>
   );
 };
-
+// last tachefdsg
 export default Footer;
